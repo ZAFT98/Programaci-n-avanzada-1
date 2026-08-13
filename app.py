@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.tittle("Mi primera App")
+st.title("Mi primera App")
 
 st.subheader("Clase1 encabezado")
